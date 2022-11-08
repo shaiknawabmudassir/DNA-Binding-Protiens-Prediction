@@ -1,5 +1,0 @@
-19-09-2022 
-1.Get the customers whose first Name are alike or jain.
-2. Get the Customers whose last name ends with 'an' or 'na'.
-3. Get the customers whose last name starts with 'ra' or it contains 'en'.
-4. Get teh customers where laste name contains 's' followed by 'h' or 'a'
