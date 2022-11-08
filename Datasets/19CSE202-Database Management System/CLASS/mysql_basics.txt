@@ -1,0 +1,22 @@
+DDL - Data Definition Language 
+DDL deals with the structure of the database
+
+Schema - Structure of database
+
+DDL Commands:
+1. Create table
+2. Alter table
+3. Drop table
+
+DML - Data Manipulation commands
+DML deals with the manipulation of the database
+
+DML commands:
+1. insert
+2. delete
+3. update
+
+DRL - Data Retrieval Language
+
+DRL Command:
+1. select
